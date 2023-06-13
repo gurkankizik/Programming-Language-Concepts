@@ -90,6 +90,5 @@ public class RationalNumber {
   }
 
   public static void main(String[] args) {
-
   }
 }
